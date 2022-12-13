@@ -1,6 +1,6 @@
 #include <stdio.h>
 int main() {    
-
+    //declaring integer for store the value user enters
     int number1, number2, sum;
     
     printf("Enter two integers: ");
